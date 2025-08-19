@@ -2,4 +2,4 @@
 modules for userbot
 
 usage:
-userbot command .loadmod <raw link to the module>
+userbot command .loadmod (raw link to the module)
